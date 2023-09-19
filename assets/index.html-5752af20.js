@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-14b2ee8b","path":"/html/","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"浏览器怪异模式、标准模式","slug":"浏览器怪异模式、标准模式","link":"#浏览器怪异模式、标准模式","children":[]}],"git":{},"filePathRelative":"html/index.md"}');export{e as data};

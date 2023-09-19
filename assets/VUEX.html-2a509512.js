@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-759280bd","path":"/vue2/VUEX.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"vuex核心概念和API","slug":"vuex核心概念和api","link":"#vuex核心概念和api","children":[]}],"git":{},"filePathRelative":"vue2/VUEX.md"}');export{e as data};

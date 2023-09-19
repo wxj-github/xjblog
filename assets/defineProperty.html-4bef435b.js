@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2590aa02","path":"/vue2/defineProperty.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"数据代理：通过一个对象代理对另一个对象中属性的操作（读、写）","slug":"数据代理-通过一个对象代理对另一个对象中属性的操作-读、写","link":"#数据代理-通过一个对象代理对另一个对象中属性的操作-读、写","children":[]}],"git":{},"filePathRelative":"vue2/defineProperty.md"}');export{e as data};
