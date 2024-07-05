@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9e6d8a98","path":"/js/waterfall.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"实现思路","slug":"实现思路","link":"#实现思路","children":[]},{"level":2,"title":"代码","slug":"代码","link":"#代码","children":[]}],"git":{},"filePathRelative":"js/waterfall.md"}');export{e as data};
